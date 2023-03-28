@@ -4,6 +4,6 @@
 
 project:裸机版本程序
 
-project_os:移植了freertos的程序（附加作者测试的RTC功能)
+project_os:移植了freertos的程序（附加作者测试的RTC功能，实时性还有待优化)
 
 title：赛题
